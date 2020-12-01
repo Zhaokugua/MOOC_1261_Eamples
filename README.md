@@ -2,4 +2,4 @@
 记录了我初学Python的一些例题
 课程地址：
 
-https://www.imooc.com/course/1261
+https://www.imooc.com/learn/1261
